@@ -38,30 +38,6 @@ I am a **Systems Admin** with a deep understanding of infrastructure, automation
   </tr>
 </table>
 
-#### 💻 Programming & Automation (Growing)
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Bash" />
-      <br />Bash/Shell
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.devhubactions" width="48" height="48" alt="GitHub Actions" />
-      <br />CI/CD
-    </td>
-  </tr>
-</table>
-
-*(Tip: Customize these icons by changing the abbreviations in the image link using [Skill Icons](https://github.com))*
-
 ---
 
 ### 📊 GitHub Stats
